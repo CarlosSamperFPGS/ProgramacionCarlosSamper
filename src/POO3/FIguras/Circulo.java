@@ -14,7 +14,7 @@ public class Circulo extends Figura2D {
         this.radio = radio;
     }
 
-    // Comentario prueba n8n
+    // Comentario
 
     // Constructor Vacio
     public Circulo() {
