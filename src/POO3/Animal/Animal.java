@@ -16,7 +16,7 @@ public abstract class Animal {
         this.edad = edad;
     }
 
-    // Constructor Vacio
+    // Constructor Vacio XS
     public Animal() {
         this.nombre = DEFAULT_NOMBRE;
         this.edad = DEFAULT_EDAD;
