@@ -10,7 +10,7 @@ public abstract class Animal {
     protected static final String DEFAULT_NOMBRE = "Sin Nombre";
     protected static final int DEFAULT_EDAD = 0;
 
-    // Constructor completo
+    // Constructor complet
     public Animal(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
